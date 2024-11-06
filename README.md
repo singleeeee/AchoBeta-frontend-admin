@@ -1,7 +1,7 @@
 # Achobeta Recruit Admin Frontend 🌟
 
 ## Technology Stack 🛠️
-
+11111
 This project is built using the following key technologies:
 
 - [Nuxt3](https://nuxt.com/) - The Intuitive Vue Framework 🌐
