@@ -1,4 +1,7 @@
 {
+  "npm.packageManager": "npm"
+}
+{
   // 禁用vscode默认的代码格式化，用eslint代替
   "editor.formatOnSave": false,
   // Auto fix
